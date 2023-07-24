@@ -1,5 +1,5 @@
 try:
-  print(x)
+  print("x")
 except:
   print("Something went wrong")
 finally:
